@@ -1,4 +1,12 @@
-### Hi there 👋
+
+🤖 Técnico em Mecatrônica
+🏭 Tecnológo em Automação Industrial
+💻 Engenharia de SoftWare
+
+HOBBY
+📟 Internet of Things
+🖥️ Programação Orientada a Objeto
+
 
 <!--
 **Iot-Health-Br/Iot-Health-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
