@@ -1,3 +1,6 @@
+## Bem Vindo ao Meu GitHub !
+
+## Formação
 
 - 🤖 Técnico em Mecatrônica
 - 🏭 Tecnológo em Automação Industrial
@@ -7,7 +10,7 @@
 - 📟 Internet of Things
 - 🖥️ Programação Orientada a Objeto
 
-## Tecnologias que uso no meu dia a dia.
+## Tecnologias que eu uso no meu dia a dia.
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
