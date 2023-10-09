@@ -23,4 +23,4 @@
 
 ## Atividade
 
-![snake gif](https://github.com/Iot-Health-Br/Iot-Health-Br/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Iot-Health-Br/Iot-Health-Br/blob/output/github-contribution-grid-snake2.svg)
