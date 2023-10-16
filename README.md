@@ -1,12 +1,12 @@
 ## Bem Vindo ao Meu GitHub !
 
-## Formação
+## Minha Formação
 
 - 🤖 Técnico em Mecatrônica
 - 🏭 Tecnológo em Automação Industrial
 - 💻 Engenharia de SoftWare
 
-## HOBBY
+## Meus HOBBIEs
 - 📟 Internet of Things
 - 🖥️ Programação Orientada a Objeto
 
