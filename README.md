@@ -1,4 +1,5 @@
 ## Bem Vindo ao Meu GitHub !
+:shipit:
 
 ## Minha Formação
 
@@ -9,6 +10,7 @@
 ## Meus HOBBIEs
 - 📟 Internet of Things
 - 🖥️ Programação Orientada a Objeto
+- 💻 Desenvolvimento Web
 
 ## Tecnologias que eu uso no meu dia a dia.
 
@@ -19,8 +21,8 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+<img align="center" alt="html5" src="https://icons8.com.br/icon/90519/spring-boot"/>
 </div>
 
 ## Atividade
 
-![snake animation](https://github.com/Iot-Health-Br/Iot-Health-Br/blob/output/github-contribution-grid-snake2.svg)
