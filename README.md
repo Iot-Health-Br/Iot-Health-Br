@@ -20,10 +20,15 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-<img align="center" alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg"/>
-<img align="center" alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"/>
-<img align="center" alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg"/>
+<img class="imagem-pequena" align="center" alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg"/>
+<img class="imagem-pequena" align="center" alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg"/>
+<img class="imagem-pequena" align="center" alt="html5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg"/>
 </div>
+
+.imagem-pequena {
+  width: 50px;
+  height: 50px;
+}
 
 ## Atividade
 
